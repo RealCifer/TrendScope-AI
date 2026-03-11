@@ -96,14 +96,14 @@ Processing steps include:
 
 ## Project Structure
 
-TrendScope-AI
+```
+TrendScope-AI/
 │
-├── trendscope_scraper.py
-├── dataset.csv
-├── workflow_document.docx
-└── README.md
-
----
+├── trendscope_scraper.py      # Python script for scraping bestseller data
+├── dataset.csv                # Final cleaned dataset
+├── workflow_document.docx     # Process and AI workflow explanation
+└── README.md                  # Project documentation
+```
 
 ## Example Use Cases
 
